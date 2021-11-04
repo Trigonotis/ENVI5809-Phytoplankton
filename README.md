@@ -5,7 +5,7 @@
 - To determine the directionality of that correlation over time at 5 sites along the Great Barrier Reef, supposing an inverse relationship and a general poleward shift of phytoplankton as temperature increases southward 
 
 ## Links to Relevant Datasets
-Data used in the study was obtained using the eReefs Data Extraction Tool - 
+AIMS eReefs Data Extraction Tool - 
 (https://extraction.ereefs.aims.gov.au/extract-data#select-sites) 
 
 AIMS eReefs THREADS Data Server - 
